@@ -61,10 +61,10 @@
     </header>
     <nav>
         <a href="https://www.facebook.com/profile.php?id=100063760641664">Pagina de facebook</a>
-        <a href="https://ice20026.github.io/web-002-shir-/">Cascos</a>
-        <a href="https://ice20026.github.io/web-003-shir/">Guantes</a>
-        <a href="https://ice20026.github.io/web-004-shir/">Llantas</a>
-        <a href="https://ice20026.github.io/web-005-shir-/">Accesorios</a>
+        <a href="https://ice20026.github.io/cascos/">Cascos</a>
+        <a href="https://ice20026.github.io/guantes/">Guantes</a>
+        <a href="https://ice20026.github.io/llantas/">Llantas</a>
+        <a href="https://ice20026.github.io/accesorio/">Accesorios</a>
     </nav>
     <div class="content">
         <h2>Acerca del negocio</h2>
