@@ -129,7 +129,7 @@
     </style>
 </head>
 <body>
-    <h1>¡Hola Mundo!</h1>
+    <h1></h1>
     <p></p>
 </body>
 </html>
