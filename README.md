@@ -73,7 +73,34 @@
         <img src="logo.jpg" alt="A beautiful landscape" width="600" height="400">
  
 <img src="nego.jpg" alt="A beautiful landscape" width="600" height="400">
-  <p>WhatsApp:(77356948).</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlace a WhatsApp</title>
+    <style>
+        .whatsapp-link {
+            display: inline-block;
+            font-size: 16px;
+            padding: 10px 20px;
+            color: white;
+            background-color: #25D366; /* Color de WhatsApp */
+            border: none;
+            border-radius: 5px;
+            text-decoration: none; /* Quitar subrayado del enlace */
+            text-align: center;
+            cursor: pointer;
+        }
+        .whatsapp-link:hover {
+            background-color: #1EBE51; /* Color al pasar el ratón */
+        }
+    </style>
+</head>
+<body>
+    <a href="https://wa.me/77356948" class="whatsapp-link" target="_blank">Contactar en WhatsApp</a>
+</body>
+</html>
     </div>
     <footer>
         <p>&copy; 2024 Mendoza</p>
