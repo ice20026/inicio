@@ -64,7 +64,7 @@
         <a href="https://ice20026.github.io/web-002-shir-/">Cascos</a>
         <a href="https://ice20026.github.io/web-003-shir/">Guantes</a>
         <a href="https://ice20026.github.io/web-004-shir/">Llantas</a>
-        <a href="file:///D:/accesorios.html">Accesorios</a>
+        <a href="https://ice20026.github.io/web-005-shir-/">Accesorios</a>
     </nav>
     <div class="content">
         <h2>Acerca del negocio</h2>
