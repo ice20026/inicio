@@ -72,8 +72,7 @@
         <!-- Add your image here -->
         <img src="logo.jpg" alt="A beautiful landscape" width="400" height="400">
  
-<img src="nego.jpg" alt="A beautiful landscape" width="400" height="4
-    00">
+<img src="nego.jpg" alt="A beautiful landscape" width="400" height="400">
 
 <html lang="es">
 <head>
