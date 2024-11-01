@@ -70,9 +70,9 @@
         <h2>Acerca del negocio</h2>
         <p>Esta es la pagina web del negocio Moto partes Mendoza donde tenemos varios repuestos de moto en venta.</p>
         <!-- Add your image here -->
-        <img src="logo.jpg" alt="A beautiful landscape" width="300" height="400">
+        <img src="logo.jpg" alt="A beautiful landscape" width="300" height="300">
  
-<img src="nego.jpg" alt="A beautiful landscape" width="300" height="400">
+<img src="nego.jpg" alt="A beautiful landscape" width="300" height="300">
 
 <html lang="es">
 <head>
