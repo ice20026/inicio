@@ -73,7 +73,7 @@
         <img src="logo.jpg" alt="A beautiful landscape" width="300" height="400">
  
 <img src="nego.jpg" alt="A beautiful landscape" width="300" height="400">
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -105,5 +105,31 @@
     <footer>
         <p>&copy; 2024 Mendoza</p>
     </footer>
+</body>
+</html>
+
+
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagen de Fondo</title>
+    <style>
+        body {
+            background-image: url('fondo 01.jpg'); /* Imagen de fondo */
+            background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hola Mundo!</h1>
+    <p></p>
 </body>
 </html>
