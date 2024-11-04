@@ -65,6 +65,7 @@
         <a href="https://ice20026.github.io/guantes/">Guantes</a>
         <a href="https://ice20026.github.io/llantas/">Llantas</a>
         <a href="https://ice20026.github.io/accesorio/">Accesorios</a>
+           <a href="https://ice20026.github.io/catalogo/">catalogo</a>
     </nav>
     <div class="content">
         <h2>Acerca del negocio</h2>
